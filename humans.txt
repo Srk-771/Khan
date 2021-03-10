@@ -17,3 +17,4 @@
     Python, Django
     SQL,    Groovy Script
     BootStrap, OOPS
+    AWS,    lamda
